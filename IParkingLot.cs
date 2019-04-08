@@ -1,7 +1,7 @@
 ﻿public interface IParkingLot
 {
 
-    int CantidadEstacionados
+    int? CantidadEstacionados
     {
         get;
     }
